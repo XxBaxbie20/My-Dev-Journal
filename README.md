@@ -11,7 +11,7 @@ This week, I delved into the **design thinking process**, focusing on its applic
 ### Project & Accomplishment
 
 * I successfully created my very first digital wireframe using Figma, using **Instagram** as my inspiration.This project helped me apply the core principles of layout and structure in a practical way.
-* **Figma Project Link:** [Simple Instagram Wireframe](**https://www.figma.com/design/kVdgNRIj6v9gupuMOpuliJ/App-practice?node-id=0-1&t=oDsJBH4XQFZnubLY-1**)
+* **Figma Project Link:** [Simple Instagram Wireframe](https://www.figma.com/design/kVdgNRIj6v9gupuMOpuliJ/App-practice?node-id=0-1&t=oDsJBH4XQFZnubLY-1)
 
 ### Challenge Overcome
 
