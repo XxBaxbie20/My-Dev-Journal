@@ -24,7 +24,7 @@ This log summarizes my ALX Frontend projects, exercises, and experiences for Oct
   - Add, display, and remove tasks
   - Persistent DOM updates
   - User-friendly interface
-- **Repo:** [To-Do-List-App](https://github.com/XxBaxbie20/To-Do-List-App)
+- **Repo:** [To-Do-List-App](https://github.com/XxBaxbie20/dynamic-to-do-list-js)
 - **What I Learned:**
   - Using JavaScript to manipulate the DOM efficiently
   - Event handling for dynamic UI updates
