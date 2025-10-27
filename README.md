@@ -11,7 +11,7 @@ Track my ALX Frontend learning progress month by month. Each log summarizes proj
 
 | Month | Summary |
 |-------|---------|
-| September 2025 | [September 2025 Work Log](https://github.com/XxBaxbie20/My-Dev-Journal/commit/7c5f0a8b64256c2827b09efb5e98178d84adf497) |
+| September 2025 | [September 2025 Work Log](./September_2025_Work_Log.md) |
 | October 2025   | [October 2025 Work Log](./October_2025_Work_Log.md) |
 
 > 🔹 **Tip:** Each monthly log contains all projects and accomplishments for that month.
