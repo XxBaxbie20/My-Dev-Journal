@@ -1,18 +1,30 @@
-## 2025-09-22: Design Thinking and Figma Wireframing 🎨
+# 💻 My Dev Journal – ALX Frontend Learning
 
-This week, I delved into the **design thinking process**, focusing on its application in UI/UX. I practiced converting ideas into tangible visuals by sketching low-fidelity wireframes and creating a low-fi prototype.
+Welcome to my **Dev Journal**, where I document my ALX Frontend learning journey.  
+This repository serves as both a personal work log and a portfolio of projects, exercises, and reflections.
 
-### Key Learnings and Tools
+---
 
-* **Design Process:** Understood the fundamental steps of design thinking, from ideation to prototyping.
-* **Digital Tools:** Explored and experimented with digital wireframing and prototyping applications, including **Figma** and **Wireframe.cc**.
-* **Figma Deep Dive:** Initially found it challenging to grasp Figma's tools and workflow, but with guidance from my AI assistant (Gemini), I learned how to properly use it for my designs.
+## 📅 Monthly Work Logs
 
-### Project & Accomplishment
+Track my ALX Frontend learning progress month by month. Each log summarizes projects, exercises, and key learnings.
 
-* I successfully created my very first digital wireframe using Figma, using **Instagram** as my inspiration.This project helped me apply the core principles of layout and structure in a practical way.
-* **Figma Project Link:** [Simple Instagram Wireframe](https://www.figma.com/design/kVdgNRIj6v9gupuMOpuliJ/App-practice?node-id=0-1&t=oDsJBH4XQFZnubLY-1)
+| Month | Summary |
+|-------|---------|
+| September 2025 | [September 2025 Work Log](https://github.com/XxBaxbie20/My-Dev-Journal/commit/7c5f0a8b64256c2827b09efb5e98178d84adf497) |
+| October 2025   | [October 2025 Work Log](./October_2025_Work_Log.md) |
 
-### Challenge Overcome
+> 🔹 **Tip:** Each monthly log contains all projects and accomplishments for that month.
 
-* Successfully navigated the initial learning curve of Figma, and was able to use the platform to create my first wireframe thanks to tutorials and AI-powered guidance.
+---
+
+## 🚀 How to Update
+
+1. Create a new Markdown file for the new month, e.g., `November_2025_Work_Log.md`.  
+2. Add it to the **Monthly Work Logs table** above.  
+3. Stage, commit, and push changes to GitHub.
+
+This keeps your Dev Journal **organized, easy to navigate, and scalable** for future months.
+
+
+
